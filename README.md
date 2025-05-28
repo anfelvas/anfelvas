@@ -8,7 +8,7 @@
 - Biodiversity-linked drug discovery and science diplomacy
 
 🌱 I’m currently working on:
-- Simulation of microgels systems for agricultural solutions
+- Simulation of carbohydrate-based microgels for agricultural applications, with focus on force field merging strategies (e.g., GLYCAM + GAFF2) in molecular dynamics
 - A One Health knowledge graph connecting plants, natural products, and diseases  
 - Linking chemodiversity and biodiversity for bioeconomic innovation  
 
@@ -16,7 +16,7 @@
 - Bioprospecting from plants, fungi, bacteria, and marine organisms 🌿🧫🌊
 - Natural product–inspired compound design 💊
 - Structure-based and ligand-based virtual screening
-- Fragment-based drug discovery (FBDD)
+- Fragment-based drug discovery (FBLD)
 - Chemodiversity and chemical space modeling
 - AI/ML for retrosynthesis and pharmacophore modeling
 - Knowledge graph–driven drug discovery 🧠🔗
