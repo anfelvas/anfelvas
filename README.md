@@ -13,8 +13,14 @@
 - Linking chemodiversity and biodiversity for bioeconomic innovation  
 
 🤝 I’m open to collaborations in:
-- AI + drug discovery projects (fragment-based, natural products, omics integration)  
-- Knowledge graph development  
+- Bioprospecting from plants, fungi, bacteria, and marine organisms 🌿🧫🌊
+- Natural product–inspired compound design 💊
+- Structure-based and ligand-based virtual screening
+- Fragment-based drug discovery (FBDD)
+- Chemodiversity and chemical space modeling
+- AI/ML for retrosynthesis and pharmacophore modeling
+- Knowledge graph–driven drug discovery 🧠🔗
+- Omics-guided drug discovery & biodiversity informatics
 - Science-policy interface for biodiversity and bioeconomy  
 
 📫 Reach me at:  
