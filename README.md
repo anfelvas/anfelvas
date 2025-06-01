@@ -2,32 +2,36 @@
 🧪🌱  Computational biochemist | Natural product innovation 
 🌎 Based at Computational Chemistry Group – IPB Halle (Germany) 
 
-👀 I’m interested in:
+👀 I’m currently interested in:
 - AI-powered cheminformatics & explainable models
 - Natural products and chemical space expansion
 - Biodiversity-linked drug discovery and science diplomacy
+- AI/ML for retrosynthesis and pharmacophore modeling
+- Metabolomics and biosynthetic gene cluster mining for NP discovery 🔬🧬
 
 📖🧬 I’m currently working on:
-- Simulation of carbohydrate-based microgels for agricultural applications, with focus on force field merging strategies (e.g., GLYCAM + GAFF2) in molecular dynamics
-- A One Health knowledge graph connecting plants, natural products, and diseases  
-- Linking chemodiversity and biodiversity for bioeconomic innovation  
+- Simulation of carbohydrate-based microgels for agricultural applications, with focus on force field merging strategies (GLYCAM + GAFF2) in MD simulations
+- Fragment-based drug discovery (FBLD) approaches for drug design and discovery
+- Chemodiversity and chemical space modeling
+- A One Health knowledge graph connecting plants, natural products, and diseases
+- Knowledge graph–driven drug discovery 🧠🔗
+- Linking chemodiversity and biodiversity for bioeconomic innovation
+- Science-policy interface for biodiversity and bioeconomy  
 
 🤝 I’m open to collaborations in:
 - Bioprospecting from plants, fungi, bacteria, and marine organisms 🌿🧫🌊
-- Natural product–inspired compound design 💊
+- Natural product–inspired compound design and optimization 💊🧪
 - Structure-based and ligand-based virtual screening
-- Fragment-based drug discovery (FBLD)
-- Chemodiversity and chemical space modeling
-- AI/ML for retrosynthesis and pharmacophore modeling
-- Knowledge graph–driven drug discovery 🧠🔗
 - Omics-guided drug discovery & biodiversity informatics
-- Science-policy interface for biodiversity and bioeconomy  
+- Ethnopharmacology, chemical ecology, and traditional knowledge integration
+- Post-extraction recovery and habitat restoration
+- Development of novel government-advised strategies and policy briefs on bioprospecting, medical prescribing practices, and science education
 
 📫 Reach me at:  
 - Email: avasquez@ipb-halle.de ✉️ 
 
 🔍Learn more about my work:
-- IPB-Halle Website: https://www.ipb-halle.de/en/research/bioorganic-chemistry 🌐 
+- IPB-Halle Department Website: https://www.ipb-halle.de/en/research/bioorganic-chemistry 🌐 
 
 
 
