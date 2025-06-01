@@ -1,13 +1,13 @@
 👋 Hi, I’m @anfelvas (Andrés Felipe Vásquez)  
-🔬 Computational biochemist | Natural product innovation 
-🌎 Based at IPB-Halle (Germany) 
+🧪🌱  Computational biochemist | Natural product innovation 
+🌎 Based at Computational Chemistry Group – IPB Halle (Germany) 
 
 👀 I’m interested in:
 - AI-powered cheminformatics & explainable models
 - Natural products and chemical space expansion
 - Biodiversity-linked drug discovery and science diplomacy
 
-🌱 I’m currently working on:
+📖🧬 I’m currently working on:
 - Simulation of carbohydrate-based microgels for agricultural applications, with focus on force field merging strategies (e.g., GLYCAM + GAFF2) in molecular dynamics
 - A One Health knowledge graph connecting plants, natural products, and diseases  
 - Linking chemodiversity and biodiversity for bioeconomic innovation  
@@ -24,8 +24,10 @@
 - Science-policy interface for biodiversity and bioeconomy  
 
 📫 Reach me at:  
-✉️ avasquez@ipb-halle.de  
-🌐 https://www.ipb-halle.de/en/research/bioorganic-chemistry/research-groups/computational-chemistry
+- Email: avasquez@ipb-halle.de ✉️ 
+
+🔍Learn more about my work:
+- IPB-Halle Website: https://www.ipb-halle.de/en/research/bioorganic-chemistry 🌐 
 
 
 
