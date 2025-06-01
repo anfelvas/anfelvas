@@ -31,7 +31,8 @@
 - Email: avasquez@ipb-halle.de ✉️ 
 
 🔍Learn more about my work:
-- IPB-Halle Department Website: https://www.ipb-halle.de/en/research/bioorganic-chemistry 🌐 
+- IPB-Halle Department Website: https://www.ipb-halle.de/en/research/bioorganic-chemistry 🌐
+- https://dissmeyerlab.academia.edu/AndrésVásquez
 
 
 
