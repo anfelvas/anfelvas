@@ -24,7 +24,7 @@
 - Structure-based and ligand-based virtual screening
 - Omics-guided drug discovery & biodiversity informatics
 - Ethnopharmacology, chemical ecology, and traditional knowledge integration
-- Post-extraction recovery and habitat restoration
+- Post-extraction recovery and habitat restoration (reforesting ecology)
 - Development of novel government-advised strategies and policy briefs on bioprospecting, medical prescribing practices, and science education
 
 📫 Reach me at:  
