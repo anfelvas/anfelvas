@@ -28,7 +28,8 @@
 - Development of novel government-advised strategies and policy briefs on bioprospecting, medical prescribing practices, and science education
 
 📫 Reach me at:  
-- Email: avasquez@ipb-halle.de ✉️ 
+- Email: avasquez@ipb-halle.de ✉️
+- You can also find my profile on Codecademy: anfelvas83
 
 🔍Learn more about my work:
 - https://www.ipb-halle.de/en/research/bioorganic-chemistry (Department of Bioorganic Chemistry, IPB-Halle) 🌐
