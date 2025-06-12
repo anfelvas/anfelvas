@@ -36,6 +36,7 @@
 - https://dissmeyerlab.academia.edu/AndrésVásquez
 - https://www.webofscience.com/wos/author/record/MIT-8461-2025
 - https://scholar.google.com/citations?hl=es&user=p4BwojkAAAAJ
+- https://x.com/anfelvas
 
 
 <!---
