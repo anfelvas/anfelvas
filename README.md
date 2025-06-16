@@ -23,9 +23,9 @@
 - Natural product–inspired compound design and optimization 💊🧪
 - Structure-based and ligand-based virtual screening
 - Omics-guided drug discovery & biodiversity informatics
-- Ethnopharmacology, chemical ecology, and traditional knowledge integration
+- Ethnopharmacology, chemical ecology, biogeography, and traditional knowledge integration
 - Post-extraction recovery and habitat restoration (reforesting ecology)
-- Development of novel government-advised strategies and policy briefs on bioprospecting, medical prescribing practices, and science education
+- Development of novel government-advised strategies and policy briefs on bioprospecting and STEM education
 
 📫 Reach me at:  
 - Email: avasquez@ipb-halle.de ✉️
