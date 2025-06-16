@@ -10,7 +10,7 @@
 - Metabolomics and biosynthetic gene cluster mining for NP discovery 🔬🧬
 
 📖🧬 I’m currently working on:
-- Simulation of carbohydrate-based microgels for agricultural applications, with focus on force field merging strategies (namely GLYCAM06j-1 + GAFF2) in large-scale AA-MD simulations
+- Simulation of carbohydrate-based microgels for agricultural applications, with focus on force field merging strategies (namely GLYCAM06j-1 + GAFF2) for large-scale AA-MD simulations
 - Fragment-based drug discovery (FBLD) approaches for drug design and discovery
 - Chemodiversity and chemical space modeling
 - A One Health knowledge graph connecting plants, natural products, and diseases
