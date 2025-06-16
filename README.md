@@ -25,7 +25,7 @@
 - Omics-guided drug discovery & biodiversity informatics
 - Ethnopharmacology, chemical ecology, biogeography, and traditional knowledge integration
 - Post-extraction recovery and habitat restoration (reforesting ecology)
-- Development of novel government-advised strategies and policy briefs on bioprospecting and STEM education
+- Development of novel government-advised strategies and policy briefs on bioprospecting, medicine, startups, and STEM education
 
 📫 Reach me at:  
 - Email: avasquez@ipb-halle.de ✉️
