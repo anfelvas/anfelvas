@@ -15,7 +15,7 @@
 - Chemodiversity and chemical space modeling
 - A One Health knowledge graph connecting plants, natural products, and diseases
 - Knowledge graph–driven drug discovery 🧠🔗
-- Linking chemodiversity and biodiversity for bioeconomic innovation
+- Linking chemodiversity and biodiversity for biotech innovation
 - Science-policy interface for biodiversity and bioeconomy  
 
 🤝 I’m open to collaborations in:
