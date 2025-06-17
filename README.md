@@ -21,7 +21,7 @@
 🤝 I’m open to collaborations in:
 - Bioprospecting from plants, fungi, bacteria, and marine organisms 🌿🧫🌊
 - Natural product–inspired compound design and optimization 💊🧪
-- Structure-based and ligand-based virtual screening
+- Structure-, ligand-, and complex-based virtual screening
 - Omics-guided drug discovery & biodiversity informatics
 - Ethnopharmacology, chemical ecology, biogeography, and traditional knowledge integration
 - Post-extraction recovery and habitat restoration (reforesting ecology)
